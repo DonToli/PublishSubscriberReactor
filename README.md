@@ -1,0 +1,1 @@
+Делаю простую реализацию паттерна Publish-Subscribe с использованием Project Reactor, Spring webFlux.
